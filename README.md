@@ -63,7 +63,8 @@ The dataset contains US retail transaction records from 2014 to 2017, including:
 - Review Furniture category pricing to improve its contribution margin
 
 ## 📸 Visualizations
-*(Add screenshots of the Power BI dashboard here)*
+<img width="486" height="574" alt="image" src="https://github.com/user-attachments/assets/c9a60ee3-c8d4-4b86-9e2b-e0db13d669f3" />
+
 
 ## 🚀 Future Improvements
 - Build a predictive model for customer churn
